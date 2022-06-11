@@ -1,6 +1,6 @@
 {
     "pack": {
         "description": "Disables all default crafting recipes.",
-        "pack_format": 9
+        "pack_format": 10
     }
 }
